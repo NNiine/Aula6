@@ -1,0 +1,14 @@
+.div1{
+    background-color: lightslategray;
+}
+
+.div2{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.title1{
+    display: flex;
+    justify-content: center;
+}

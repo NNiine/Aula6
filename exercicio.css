@@ -1,0 +1,54 @@
+
+.topo{
+    
+    background-color: #168aad;
+    display: flex;
+    justify-content: center;
+    tab-size: 100px;
+}
+
+.title1{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subtitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+.lorem{
+    margin: 10px;
+}
+
+.main{
+    display: flex;
+    flex-flow: row;
+    margin: 2px;
+}
+
+.div1{
+    background-color: #76c893;
+    display: flex;
+    flex-flow: column;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.div2{
+    background-color: #76c893;
+    display: flex;
+    flex-flow: column;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div3{
+    background-color: #76c893;
+    display: flex;
+    flex-flow: column;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
